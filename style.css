@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(20, 20, 49);
+}
+.container{
+    width: 600px;
+    height: 500px;
+    margin: 25px 375px;
+    background-color: rgb(88, 222, 222);
+    padding-top: 90px;
+    
+}
+h1{
+    color: rgb(59, 59, 130);
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.box{
+    margin-left: 95px;
+    width: 400px;
+    height: 35px;
+    padding-left: 8px;
+    border-radius: 6px;
+}
+
+.box1{
+    margin-left: 95px;
+}
+
+.box2{
+    width: 85px;
+    height: 35px;
+    border-radius: 8px;
+    margin-left: 250px;
+}
+
+
+  
